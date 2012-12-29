@@ -10,7 +10,7 @@ namespace Laxy
     {
         public PanelDB()
         {
-            this.DoubleBuffered = true;
+            this.DoubleBuffered = true; // browser-editet xyz
         }
     }
 }
